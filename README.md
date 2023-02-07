@@ -7,10 +7,12 @@ Description:
 
 To use:
 	The code requieres matlab core to be installed to work (a standalone application with requiered installable programs can be also provided)
-	The working directory has :	- a Ladder/ subfolder that allows to generate simple ladder shape DFNs
-								- a Lattice/ subfolder that allows to generate simple lattice grid
-                                - a P21_like/ subfolder that allows to generate a DFN based on lattice grid by respecting the same P21 distribution as a given DFN
-								- a Synth_rnd/ subfolder that allows to generate DFNs based on lattice which has anisotropy between x and y directions
+	The working directory has :	
+	
+	- a Ladder/ subfolder that allows to generate simple ladder shape DFNs
+	- a Lattice/ subfolder that allows to generate simple lattice grid
+        - a P21_like/ subfolder that allows to generate a DFN based on lattice grid by respecting the same P21 distribution as a given DFN
+	- a Synth_rnd/ subfolder that allows to generate DFNs based on lattice which has anisotropy between x and y directions
 	
 	Step 1: define the different parameters in the main function
         The generated DFN will be in following format,
