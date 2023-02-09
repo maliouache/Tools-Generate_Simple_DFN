@@ -2,6 +2,8 @@
 
 Aliouache M. 2023
 
+This tool has been developed within the framework of KARMA Project.
+
 Description:
 	This code converts generates simple discrete fracture networks based on lattice grid geometry 
 
