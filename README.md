@@ -1,6 +1,6 @@
 # Tools-Generate_Simple_DFN
 
-- KarstGen was developped in HydroSciences Montpellier (http://www.hydrosciences.org/).
+- This tool was developped in HydroSciences Montpellier (http://www.hydrosciences.org/).
 - Part of the tool was developped within the framework of KARMA Project (http://karma-project.org/).
 
 <img src="img/LogoKARMA.jpg" width="10%" />   <img src="img/LogoHSM.png" width="6%" />   <img src="img/LogoUM.png" width="5%" />
